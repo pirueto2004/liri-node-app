@@ -82,7 +82,16 @@ See screen-shot below:
 
 ![Results](/screenshots/do_what_it_says_results.PNG)
 
-TECHNOLOGIES USED
+**Example 5**: If a user runs a command with no parameter provided, they will get a default result in each case. 
+
+See screen-shot below:
+
+![Results](/screenshots/default_input_results.PNG)
+
+# Bonus
+* In addition to logging the data to your terminal/bash window, all the result data is also saved to a .txt file called `log.txt`.
+
+# TECHNOLOGIES USED
 Javascript
 Nodejs
 Node packages:
